@@ -1,4 +1,4 @@
-![](http://labimg-labimg.stor.sinaapp.com/original/136fc1cb1f9b42cb52f7143415e60c8e.png)
+![](http://labpic.qiniudn.com/136fc1cb1f9b42cb52f7143415e60c8e.png)
 
 主题移植自BlogMi（一个无需数据库的轻量级博客程序）的一个日记主题，整体由[冷轩信](http://lengxx.com/)移植。原主题没有写评论样式，于是照搬了Rozv主题的。取名为MiDiary，Mi就是BlogMi，diary就是日记。
 
@@ -27,4 +27,4 @@
 
 ##演示
 
-两张高清大图：[首页](http://labimg-labimg.stor.sinaapp.com/original/5f9966c052e9c8f9ca546246a92ad3bb.jpg) [文章页](http://labimg-labimg.stor.sinaapp.com/original/50cdf379c7aea1b0073130e4e905eb18.jpg)
+两张高清大图：[首页](http://labpic.qiniudn.com/5f9966c052e9c8f9ca546246a92ad3bb.jpg) [文章页](http://labpic.qiniudn.com/50cdf379c7aea1b0073130e4e905eb18.jpg)
